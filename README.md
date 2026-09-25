@@ -15,11 +15,11 @@
 
 ### 💻 About Me:
 
-* 🎓 Pursuing a degree in Information Technology at **Misamis University**, Philippines.
-* 🚀 An adaptable student and builder who loves exploring every layer of technology—from network architecture to frontend UI/UX and mobile apps.
-* 🌐 **Networking Core:** Experienced with advanced router/switch configurations, OSPF, EIGRP, Inter-VLAN routing, ACLs, EACLs, and NAT.
-* 🛠️ **Full-Stack & Mobile:** Skilled in building web interfaces with HTML/CSS/JavaScript, and crafting apps using Flutter, Dart, Java, Kotlin, and Python.
-* 🎨 **Design & Databases:** Armed with UI/UX fundamentals in Figma and database management using MySQL.
+* 🎓 Pursuing a degree in Information Technology at **Misamis University**, Philippines, and an aspiring IT generalist.
+* 🚀 Enjoying the journey of exploring different layers of tech, from networks and web pages to mobile apps and UI/UX design.
+* 🌱 Always learning by doing, experimenting with new concepts, and taking things one step at a time.
+* 🎨 Armed with UI/UX fundamentals in Figma and database management using MySQL.
+* 🎮 Fueled by gaming, music, motorsports, and a drive to build cool applications.
 * You can reach me through [Facebook](https://www.facebook.com/seeevvviiiiii) or [Instagram](https://www.instagram.com/sevixlvse/).
 
 ---
