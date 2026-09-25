@@ -1,9 +1,13 @@
 <div align="center">
 
-# Hi there, I'm Sevi 👋
-### Versatile Developer & Tech Enthusiast
+# SEVI 🦁
 
-<img src="https://komarev.com/ghprofile/fcounters?username=seviioo&theme=tokyonight&color=0df&other=fff" alt="Profile Views"/>
+<p>
+  <img src="https://img.shields.io/badge/🎓_BSIT_Student_@_Misamis_University-0d1117?style=for-the-badge&color=161b22&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🚀_IT_Generalist-02569B?style=for-the-badge" />
+</p>
+
+### Versatile Developer & Tech Enthusiast
 
 </div>
 
@@ -11,6 +15,7 @@
 
 ### 💻 About Me:
 
+* 🎓 Pursuing a degree in Information Technology at **Misamis University**, Philippines.
 * 🚀 An adaptable student and builder who loves exploring every layer of technology—from network architecture to frontend UI/UX and mobile apps.
 * 🌐 **Networking Core:** Experienced with advanced router/switch configurations, OSPF, EIGRP, Inter-VLAN routing, ACLs, EACLs, and NAT.
 * 🛠️ **Full-Stack & Mobile:** Skilled in building web interfaces with HTML/CSS/JavaScript, and crafting apps using Flutter, Dart, Java, Kotlin, and Python.
