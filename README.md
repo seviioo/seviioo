@@ -20,6 +20,7 @@
 * 🌐 **Networking Core:** Experienced with advanced router/switch configurations, OSPF, EIGRP, Inter-VLAN routing, ACLs, EACLs, and NAT.
 * 🛠️ **Full-Stack & Mobile:** Skilled in building web interfaces with HTML/CSS/JavaScript, and crafting apps using Flutter, Dart, Java, Kotlin, and Python.
 * 🎨 **Design & Databases:** Armed with UI/UX fundamentals in Figma and database management using MySQL.
+* You can reach me through [Facebook](https://www.facebook.com/seeevvviiiiii) or [Instagram](https://www.instagram.com/sevixlvse/).
 
 ---
 
